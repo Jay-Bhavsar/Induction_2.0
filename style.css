@@ -1,0 +1,29 @@
+.navbar{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    display: flex;
+}
+
+.navbar ul{
+    display: flex;
+   
+}
+
+.navbar li{
+   margin: 15px;
+    
+}
+
+.signup{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.signup input{
+    width: 50%;
+}
+.signup button{
+    width: 50%;
+}
